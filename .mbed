@@ -1,0 +1,8 @@
+ROOT=.
+DEVICE_ID[/home/studio/workspace/example_6-3]=066CFF485753667187112241
+DEVICE_TYPE[/home/studio/workspace/example_6-3]=connected
+DEVICE_ID[/home/studio/workspace/Lab_6-Main_tasks]=SSE-300-MPS3
+DEVICE_TYPE[/home/studio/workspace/Lab_6-Main_tasks]=vht
+TARGET=NUCLEO_F439ZI
+TARGET_CODE=0797
+TARGET_SERIAL=066CFF485753667187112241
